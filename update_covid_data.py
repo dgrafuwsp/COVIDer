@@ -1,7 +1,10 @@
 # update_covid_data
 # by Danie L . Graf <dgraf@uwsp.edu>
 """ This script gets the set of COVID data files from the NY Times and The Atlantic
-web sites and converts the CSVs to tab-delimited tables. """
+web sites and converts the CSVs to tab-delimited tables.
+
+The CSV data are written to the directory /csv_data/, and tab-delimited text files 
+are written to /covid_data/. """
 import urllib.request
 
 class Covid_Data( ):
