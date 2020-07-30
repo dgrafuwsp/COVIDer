@@ -1,1 +1,1 @@
-These are sample outout files.
+These are sample output files.
