@@ -1,0 +1,75 @@
+state	county	population
+California	Los Angeles	10039107
+Wisconsin	Wisconsin	5822434
+Wisconsin	Adams	20220
+Wisconsin	Ashland	15562
+Wisconsin	Barron	45244
+Wisconsin	Bayfield	15036
+Wisconsin	Brown	264542
+Wisconsin	Buffalo	13031
+Wisconsin	Burnett	15414
+Wisconsin	Calumet	50089
+Wisconsin	Chippewa	64658
+Wisconsin	Clark	34774
+Wisconsin	Columbia	57532
+Wisconsin	Crawford	16131
+Wisconsin	Dane	546695
+Wisconsin	Dodge	87839
+Wisconsin	Door	27668
+Wisconsin	Douglas	43150
+Wisconsin	Dunn	45368
+Wisconsin	Eau Claire	104646
+Wisconsin	Florence	4295
+Wisconsin	Fond du Lac	103403
+Wisconsin	Forest	9004
+Wisconsin	Grant	51439
+Wisconsin	Green	36960
+Wisconsin	Green Lake	18913
+Wisconsin	Iowa	23678
+Wisconsin	Iron	5687
+Wisconsin	Jackson	20643
+Wisconsin	Jefferson	84769
+Wisconsin	Juneau	26687
+Wisconsin	Kenosha	169561
+Wisconsin	Kewaunee	20434
+Wisconsin	La Crosse	118016
+Wisconsin	Lafayette	16665
+Wisconsin	Langlade	19189
+Wisconsin	Lincoln	27593
+Wisconsin	Manitowoc	78981
+Wisconsin	Marathon	135692
+Wisconsin	Marinette	40350
+Wisconsin	Marquette	15574
+Wisconsin	Menominee	4556
+Wisconsin	Milwaukee	945726
+Wisconsin	Monroe	46253
+Wisconsin	Oconto	37930
+Wisconsin	Oneida	35595
+Wisconsin	Outagamie	187885
+Wisconsin	Ozaukee	89221
+Wisconsin	Pepin	7287
+Wisconsin	Pierce	42754
+Wisconsin	Polk	43783
+Wisconsin	Portage	70772
+Wisconsin	Price	13351
+Wisconsin	Racine	196311
+Wisconsin	Richland	17252
+Wisconsin	Rock	163354
+Wisconsin	Rusk	14178
+Wisconsin	St. Croix	90687
+Wisconsin	Sauk	64442
+Wisconsin	Sawyer	16558
+Wisconsin	Shawano	40899
+Wisconsin	Sheboygan	115340
+Wisconsin	Taylor	20343
+Wisconsin	Trempealeau	29649
+Wisconsin	Vernon	30822
+Wisconsin	Vilas	22195
+Wisconsin	Walworth	103868
+Wisconsin	Washburn	15720
+Wisconsin	Washington	136034
+Wisconsin	Waukesha	404198
+Wisconsin	Waupaca	50990
+Wisconsin	Waushara	24443
+Wisconsin	Winnebago	171907
+Wisconsin	Wood	72999
