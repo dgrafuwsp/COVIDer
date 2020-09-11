@@ -6,6 +6,7 @@ web sites and converts the CSVs to tab-delimited tables.
 The CSV data are written to the directory /csv_data/, and tab-delimited text files 
 are written to /covid_data/. """
 import urllib.request
+import ssl
 
 class Covid_Data( ):
     """ This object stores the basic information about the CSV files from data
@@ -152,11 +153,16 @@ def import_from_url( url, sinkShelf = 0):
     # RETURN
     lines = [ ] # list str HTML formated web page file lines
     
+    # ignore SSL certificate errors
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE    
+    
     # make at least ten requests for data before giving up
-    while sinkShelf < 10:
+    while sinkShelf < 100:
 
         try:
-            f = urllib.request.urlopen( url )
+            f = urllib.request.urlopen( url, context = ctx )
             data = f.read( )
             lines = data.decode( 'utf-8').split( '\n' )
                 
